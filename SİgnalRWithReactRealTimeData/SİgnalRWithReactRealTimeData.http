@@ -1,0 +1,6 @@
+@SİgnalRWithReactRealTimeData_HostAddress = http://localhost:5116
+
+GET {{SİgnalRWithReactRealTimeData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
